@@ -1,31 +1,48 @@
-# Hi, I'm Eva 👋
+# Hi, I'm Eva
 
-I'm a **Master of Mathematical Finance student at the University of Toronto**, interested in **quantitative research, systematic trading, and machine learning for financial markets**.
+I'm a **Master of Mathematical Finance student at the University of Toronto** with a background in **Statistics, Economics, and Mathematics**.
 
-## About Me
+My interests lie at the intersection of **quantitative research, systematic trading, and machine learning**, particularly in using data-driven methods to understand and model financial markets.
 
-- 📈 Interested in **quantitative research, systematic trading, and derivatives**
-- 🤖 Experience applying **machine learning and deep learning** to financial data
-- 🏆 **Silver Medal (Top 2%)** — Jane Street Market Forecasting Challenge
-- 🔬 Currently exploring **alpha modeling, time series, and financial ML**
+## Highlights
 
-## Featured Projects
+* **Silver Medal · Top 2%** — Jane Street Market Forecasting Challenge
+* Experience in **ML/DL-based equity alpha research**
+* Interested in **systematic strategies, derivatives, time series, and market microstructure**
+* Currently pursuing opportunities in **Quantitative Research and Trading**
 
-- **[Deep Learning Alpha Research](YOUR_TABNET_REPO_LINK)**  
-  MLP and TabNet-style models for cross-sectional equity alpha prediction using 2,000+ financial factors.
+## Selected Work
 
-- **[Jane Street Market Forecasting Challenge](YOUR_JANE_STREET_REPO_LINK)**  
-  Financial forecasting and predictive modeling — **Silver Medal, Top 2%**.
+**[Deep Learning for Alpha Research](YOUR_TABNET_REPO_LINK)**
+Cross-sectional equity alpha modeling using 2,000+ financial factors, with MLP and TabNet-style architectures evaluated through IC/ICIR and benchmark comparisons.
+*Python · PyTorch · pandas · NumPy · scikit-learn*
 
-- **[Financial Models](YOUR_FINANCIAL_MODELS_REPO_LINK)**  
-  Implementations of quantitative finance and financial modeling methods.
+**[Jane Street Market Forecasting Challenge](YOUR_JANE_STREET_REPO_LINK)**
+Machine learning approaches to financial market forecasting, achieving a **Silver Medal (Top 2%)** among 3,700+ participants.
+*Python · Machine Learning · Financial Forecasting*
 
-- **[Stochastic Processes](YOUR_STOCHASTIC_REPO_LINK)**  
-  Simulations and implementations of stochastic processes used in quantitative finance.
+**[Financial Models](YOUR_FINANCIAL_MODELS_REPO_LINK)**
+Implementations of quantitative finance models for portfolio analysis, derivatives, and risk.
+*Python · NumPy · pandas*
 
-## Tech
+**[Stochastic Processes](YOUR_STOCHASTIC_REPO_LINK)**
+Numerical simulations of stochastic processes and probability models with applications to quantitative finance.
+*Python · NumPy · Simulation*
 
-**Python · PyTorch · Pandas · NumPy · Scikit-learn · R**
+## Technical Toolkit
+
+**Programming:** Python, R, SQL
+**ML & Data:** PyTorch, scikit-learn, pandas, NumPy
+**Quant:** Time Series, Econometrics, Derivatives, Backtesting, Financial Modeling
+**Tools:** Git, Linux/Unix, Jupyter
+
+## Background
+
+**University of Toronto**
+Master of Mathematical Finance
+
+**University of Toronto**
+B.Sc. in Statistics & Economics · Minor in Mathematics
 
 ## Connect
 
