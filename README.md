@@ -1,6 +1,6 @@
 # Hi, I'm Eva 👋
 
-I'm a **Master of Mathematical Finance candidate at the University of Toronto**, interested in **quantitative research, systematic trading, and machine learning for financial markets**.
+I'm a **Master of Mathematical Finance student at the University of Toronto**, interested in **quantitative research, systematic trading, and machine learning for financial markets**.
 
 My work focuses on applying **statistical modeling, machine learning, and deep learning** to financial data, with particular interests in **alpha research, time-series modeling, derivatives, and portfolio analysis**.
 
