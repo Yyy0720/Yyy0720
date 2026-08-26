@@ -13,7 +13,7 @@ My interests lie at the intersection of **quantitative research, systematic trad
 
 ## Selected Work
 
-**[Deep Learning for Alpha Research](YOUR_TABNET_REPO_LINK)**
+**[Deep Learning for Alpha Research](YOUR_TABNET_REPO_LINK)**。
 Cross-sectional equity alpha modeling using 2,000+ financial factors, with MLP and TabNet-style architectures evaluated through IC/ICIR and benchmark comparisons.
 *Python · PyTorch · pandas · NumPy · scikit-learn*
 
