@@ -65,4 +65,4 @@ Quantitative Research · Systematic Trading · Machine Learning · Time Series �
 
 ## 📫 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/evayuanyy/))
