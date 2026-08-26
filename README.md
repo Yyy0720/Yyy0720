@@ -16,18 +16,15 @@ My interests lie at the intersection of **quantitative research, systematic trad
 **[Deep Learning for Alpha Research](YOUR_TABNET_REPO_LINK)**
 Cross-sectional equity alpha modeling using 2,000+ financial factors, with MLP and TabNet-style architectures evaluated through IC/ICIR and benchmark comparisons.
 *Python · PyTorch · pandas · NumPy · scikit-learn*
+## Featured Projects
 
-**[Jane Street Market Forecasting Challenge](YOUR_JANE_STREET_REPO_LINK)**
-Machine learning approaches to financial market forecasting, achieving a **Silver Medal (Top 2%)** among 3,700+ participants.
+**[Jane Street Market Forecasting Challenge](https://github.com/Yyy0720/jane-street-market-forecasting)**  
+Developed machine learning models for large-scale financial market forecasting, earning a **Kaggle Silver Medal (Top 2%)** among 3,700+ participants.  
 *Python · Machine Learning · Financial Forecasting*
 
-**[Financial Models](YOUR_FINANCIAL_MODELS_REPO_LINK)**
-Implementations of quantitative finance models for portfolio analysis, derivatives, and risk.
-*Python · NumPy · pandas*
-
-**[Stochastic Processes](YOUR_STOCHASTIC_REPO_LINK)**
-Numerical simulations of stochastic processes and probability models with applications to quantitative finance.
-*Python · NumPy · Simulation*
+**[DJIA Return & Volatility Forecasting](https://github.com/Yyy0720/djia-volatility-forecasting-r)**  
+Modeled DJIA return dynamics and conditional volatility using **ARMA, ARIMA, GARCH, ARMA-GARCH, and EGARCH**, with stationarity testing, residual diagnostics, model selection, and short-horizon forecasting.  
+*R · Time Series · GARCH · Volatility Modeling*
 
 ## Technical Toolkit
 
