@@ -31,10 +31,11 @@ Numerical simulations of stochastic processes and probability models with applic
 
 ## Technical Toolkit
 
-**Programming:** Python, R, SQL
-**ML & Data:** PyTorch, scikit-learn, pandas, NumPy
-**Quant:** Time Series, Econometrics, Derivatives, Backtesting, Financial Modeling
-**Tools:** Git, Linux/Unix, Jupyter
+
+- **Programming:** Python, R, SQL
+- **ML & Data:** PyTorch, scikit-learn, pandas, NumPy
+- **Quant:** Time Series, Econometrics, Derivatives, Backtesting, Financial Modeling
+- **Tools:** Git, Linux/Unix, Jupyter
 
 ## Background
 
