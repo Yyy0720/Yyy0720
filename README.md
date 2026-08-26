@@ -16,7 +16,6 @@ My interests lie at the intersection of **quantitative research, systematic trad
 **[Deep Learning for Alpha Research](YOUR_TABNET_REPO_LINK)**
 Cross-sectional equity alpha modeling using 2,000+ financial factors, with MLP and TabNet-style architectures evaluated through IC/ICIR and benchmark comparisons.
 *Python · PyTorch · pandas · NumPy · scikit-learn*
-## Featured Projects
 
 **[Jane Street Market Forecasting Challenge](https://github.com/Yyy0720/jane-street-market-forecasting)**  
 Developed machine learning models for large-scale financial market forecasting, earning a **Kaggle Silver Medal (Top 2%)** among 3,700+ participants.  
