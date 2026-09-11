@@ -4,6 +4,8 @@ I'm a **Master of Mathematical Finance student at the University of Toronto** wi
 
 My interests lie at the intersection of **quantitative research, systematic trading, and machine learning**, particularly in using data-driven methods to understand and model financial markets.
 
+Outside of academics and work, I enjoy bouldering, skateboarding, basketball, hip-hop, watching movies and writing reviews, and traveling around the world.
+
 ## Highlights
 
 * **Silver Medal · Top 2%** — Jane Street Market Forecasting Challenge
