@@ -8,8 +8,8 @@ Outside of academics and work, I enjoy bouldering, skateboarding, basketball, hi
 
 ## Highlights
 
-* **Silver Medal · Top 2%** — Jane Street Market Forecasting Challenge
 * Experience in **ML/DL-based equity alpha research**
+* **Silver Medal · Top 2%** — Jane Street Market Forecasting Challenge
 * Interested in **systematic strategies, derivatives, time series, and market microstructure**
 * Currently pursuing opportunities in **Quantitative Research and Trading**
 
