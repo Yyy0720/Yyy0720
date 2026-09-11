@@ -1,4 +1,4 @@
-# Hi, I'm Eva Yuan
+# Hi, I'm Eva (Yuyang)
 
 I'm a **Master of Mathematical Finance student at the University of Toronto** with a background in **Statistics, Economics, and Mathematics**.
 
