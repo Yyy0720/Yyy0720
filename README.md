@@ -15,7 +15,7 @@ Outside of academics and work, I enjoy bouldering, skateboarding, basketball, hi
 
 ## Selected Work
 
-**[Jane Street Market Forecasting Challenge](https://github.com/Yyy0720/jane-street-market-forecasting)**  
+**[Jane Street Market Forecasting Competition](https://github.com/Yyy0720/jane-street-market-forecasting)**  
 Developed machine learning models for large-scale financial market forecasting, earning a **Kaggle Silver Medal (Top 2%)** among 3,700+ participants.  
 *Python · Machine Learning · Financial Forecasting*
 
