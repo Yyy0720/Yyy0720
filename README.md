@@ -17,14 +17,17 @@ Outside of academics and work, I enjoy bouldering, skateboarding, basketball, hi
 
 **[Jane Street Market Forecasting Competition](https://github.com/Yyy0720/jane-street-market-forecasting)**  
 Developed machine learning models for large-scale financial market forecasting, earning a **Kaggle Silver Medal (Top 2%)** among 3,700+ participants.  (Code currently private due to confidentiality; may be released upon project completion)
+
 *Python · Machine Learning · Financial Forecasting*
 
 **[Deep Learning for Alpha Research](YOUR_TABNET_REPO_LINK)**  
 Cross-sectional equity alpha modeling using 2,000+ financial factors, with MLP and TabNet-style architectures evaluated through IC/ICIR and benchmark comparisons.
+
 *Python · PyTorch · pandas · NumPy · scikit-learn*
 
 **[DJIA Return & Volatility Forecasting](https://github.com/Yyy0720/djia-volatility-forecasting-r)**  
 Modeled DJIA return dynamics and conditional volatility using **ARMA, ARIMA, GARCH, ARMA-GARCH, and EGARCH**, with stationarity testing, residual diagnostics, model selection, and short-horizon forecasting.  
+
 *R · Time Series · GARCH · Volatility Modeling*
 
 ## Technical Toolkit
